@@ -17,7 +17,7 @@ Gameanalytics ,platform ,basit eğlence ,parkour
 Puzzle sevenler
 PC oyuncuları
 
-<h4Sprint 1</h4>
+<h4>Sprint 1</h4>
 
 
 
