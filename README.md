@@ -41,5 +41,9 @@ PC oyuncuları
 <li><b>Tasarım Fikirleri</b></li>
 </ul>
 
+![as1](https://github.com/impalaelmas/OUABootcamp2024/assets/123330048/d9d45667-5ae6-43df-a83c-8865b345bb29)
 
+![as2](https://github.com/impalaelmas/OUABootcamp2024/assets/123330048/77c27fd1-f03e-4c40-84b4-05f85fefaa4e)
 
+<ul><b>Sprint Review:</b>
+<li>Ekipçe low poly bir tasarıma sahip olunması hükmen karar verilmiştir.</li></ul>
