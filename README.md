@@ -27,7 +27,8 @@ PC oyuncuları
 
 <b>Toplantı ve Whatsapp Konuşmaları ScreenShotları</b>
 
-BURAYA SS GELİCEK
+![WAPTASP SS](https://github.com/impalaelmas/OUABootcamp2024/assets/123330048/9b668225-7fa2-44ec-ba13-d206db355aa2)
+
 
 
 <b>Tasarım ve Developing Mantığı:</b> Tasarım tarafın da bilgisi olan ekip üyeleri ağırlıklı olarak tasarıma zaman ayırsa da yardıma ihtiyaç olduğunda  developing kısmında da faaliyet gösterecektir. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.<br>
