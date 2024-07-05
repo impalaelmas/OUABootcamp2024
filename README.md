@@ -54,3 +54,9 @@ PC oyuncuları
 <li>Elmas Ildırar</li>
 <li>Yağmur Yiğit </li>
 <li>Erdem Celal Gören</ul>
+
+<ul><h3><b>Sprint Retrospective:</h3></b>
+<li>Roller tekrardan belirlendi yeni scrum master atandı.</li>
+<li>Oyunu teması ve hikayesine sürdürülebilirlik olarak yeni fikirler hükmen eklendi</li>
+<li>Tasarım için farklı assetler arasından elemeler yapılmıştır.</li>
+<li>Toplantı günleri ve saatleri için net kararlar verilmiştir.</li></ul>
