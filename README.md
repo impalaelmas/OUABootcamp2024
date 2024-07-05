@@ -28,7 +28,7 @@ PC oyuncuları
 <b>Toplantı ve Whatsapp Konuşmaları ScreenShotları</b>
 
 <img width="1423" alt="2" src="https://github.com/impalaelmas/OUABootcamp2024/assets/123330048/09d5dab0-5857-4c02-84cf-221f347103cb">
-<br>
+
 ![WAPTASP SS](https://github.com/impalaelmas/OUABootcamp2024/assets/123330048/9b668225-7fa2-44ec-ba13-d206db355aa2)
 
 <br>
