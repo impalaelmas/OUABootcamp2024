@@ -23,5 +23,13 @@ PC oyuncuları
 <b>Puan tamamlama mantığı:</b> Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.<br>
 <b>Daily Scrum:</b> Whatsapp üzerinden günlük Discord üzerinden ise haftalık olarak görüşmeler sağlanmıştır. Tasarım grubu ve Ana Grup olarak iki adet grup oluşturuluştur.<br>
 
+<h1>Toplantı ve Whatsapp Konuşmaları ScreenShotları</h1>
+
+BURAYA SS GELİCEK
+
+
+<b>Tasarım ve Developing Mantığı:</b> Tasarım tarafın da bilgisi olan ekip üyeleri ağırlıklı olarak tasarıma zaman ayırsa da yardıma ihtiyaç olduğunda  developing kısmında da faaliyet gösterecektir. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.
+<b>Tasarım Grubu Üyeleri: Elmas, Elif, Erdem.</b> 
+
 
 
