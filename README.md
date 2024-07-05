@@ -34,7 +34,7 @@ PC oyuncuları
 
 <ul>
 <h3><b>Tasarım ve Developing Mantığı:</b></h3> Tasarım tarafın da bilgisi olan ekip üyeleri ağırlıklı olarak tasarıma zaman ayırsa da yardıma ihtiyaç olduğunda  developing kısmında da faaliyet gösterecektir.<br>
-<h3><b>Tasarım Grubu Üyeleri:</h3> Elmas, Elif, Erdem.</b> 
+<ul><h3><b>Tasarım Grubu Üyeleri:</h3> <li>Elmas</li> <li>Elif</li> <li>Erdem</li></b> </ul>
 
 ![tire](https://github.com/impalaelmas/OUABootcamp2024/assets/123330048/5b935e8d-f5ec-4cd2-aaf1-3ca323debd5a)
 
