@@ -25,7 +25,7 @@ PC oyuncuları
 <li><b>Daily Scrum:</b> Whatsapp üzerinden günlük Discord üzerinden ise haftalık olarak görüşmeler sağlanmıştır. Tasarım grubu ve Ana Grup olarak iki adet grup oluşturuluştur.<br></li>
 </ul>
 
-<h1>Toplantı ve Whatsapp Konuşmaları ScreenShotları</h1>
+<b>Toplantı ve Whatsapp Konuşmaları ScreenShotları</b>
 
 BURAYA SS GELİCEK
 
