@@ -47,3 +47,10 @@ PC oyuncuları
 
 <ul><h3><b>Sprint Review:</h3></b>
 <li>Ekipçe low poly bir tasarıma sahip olunması hükmen karar verilmiştir.</li></ul>
+
+<ul><h3><b>Sprint Review katılımcıları: </h3></b>
+<li>Emir Yavuz </li>
+<li>Elif Gedik</li>
+<li>Elmas Ildırar</li>
+<li>Yağmur Yiğit </li>
+<li>Erdem Celal Gören</ul>
