@@ -22,7 +22,7 @@ PC oyuncuları
 <br><li><b>Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.</b><br></li>
 
 <li><b>Puan tamamlama mantığı:</b> Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.<br></li>
-<li><b>Daily Scrum:</b> Whatsapp üzerinden günlük Discord üzerinden ise haftalık olarak görüşmeler sağlanmıştır. Tasarım grubu ve Ana Grup olarak iki adet grup oluşturuluştur.<br></li>
+<li><b>Daily Scrum:</b> Whatsapp üzerinden günlük Discord üzerinden ise haftalık olarak görüşmeler sağlanmıştır.<br></li>
 </ul>
 
 <b>Toplantı ve Whatsapp Konuşmaları ScreenShotları</b>
@@ -33,8 +33,8 @@ PC oyuncuları
 
 
 <ul>
-<b>Tasarım ve Developing Mantığı:</b> Tasarım tarafın da bilgisi olan ekip üyeleri ağırlıklı olarak tasarıma zaman ayırsa da yardıma ihtiyaç olduğunda  developing kısmında da faaliyet gösterecektir. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.<br>
-<b>Tasarım Grubu Üyeleri: Elmas, Elif, Erdem.</b> 
+<h3><b>Tasarım ve Developing Mantığı:</b> Tasarım tarafın da bilgisi olan ekip üyeleri ağırlıklı olarak tasarıma zaman ayırsa da yardıma ihtiyaç olduğunda  developing kısmında da faaliyet gösterecektir.</h3><br>
+<h3><b>Tasarım Grubu Üyeleri: Elmas, Elif, Erdem.</b> </h3>
 
 ![tire](https://github.com/impalaelmas/OUABootcamp2024/assets/123330048/5b935e8d-f5ec-4cd2-aaf1-3ca323debd5a)
 
@@ -46,7 +46,7 @@ PC oyuncuları
 ![as2](https://github.com/impalaelmas/OUABootcamp2024/assets/123330048/77c27fd1-f03e-4c40-84b4-05f85fefaa4e)
 
 <ul><h3><b>Sprint Review:</h3></b>
-<li>Ekipçe low poly bir tasarıma sahip olunması hükmen karar verilmiştir.</li></ul>
+<li>Ekipçe low poly bir tasarıma sahip olunmasına karar verilmiştir.</li></ul>
 
 <ul><h3><b>Sprint Review katılımcıları: </h3></b>
 <li>Emir Yavuz </li>
@@ -56,7 +56,7 @@ PC oyuncuları
 <li>Erdem Celal Gören</ul>
 
 <ul><h3><b>Sprint Retrospective:</h3></b>
-<li>Roller tekrardan belirlendi yeni scrum master atandı.</li>
-<li>Oyunu teması ve hikayesine sürdürülebilirlik olarak yeni fikirler hükmen eklendi</li>
+<li>Roller tekrardan belirlendi yeni scrum master seçildi</li>
+<li>Oyunu teması ve hikayesine sürdürülebilirlik olarak yeni fikirler  eklendi</li>
 <li>Tasarım için farklı assetler arasından elemeler yapılmıştır.</li>
 <li>Toplantı günleri ve saatleri için net kararlar verilmiştir.</li></ul>
