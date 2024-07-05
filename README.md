@@ -18,10 +18,12 @@ Puzzle sevenler
 PC oyuncuları
 
 <h1>Sprint 1</h1>
-<br><b>Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.</b><br>
+<ul>
+<li><br><b>Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.</b><br></li>
 
-<b>Puan tamamlama mantığı:</b> Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.<br>
-<b>Daily Scrum:</b> Whatsapp üzerinden günlük Discord üzerinden ise haftalık olarak görüşmeler sağlanmıştır. Tasarım grubu ve Ana Grup olarak iki adet grup oluşturuluştur.<br>
+<li><b>Puan tamamlama mantığı:</b> Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.<br></li>
+<li><b>Daily Scrum:</b> Whatsapp üzerinden günlük Discord üzerinden ise haftalık olarak görüşmeler sağlanmıştır. Tasarım grubu ve Ana Grup olarak iki adet grup oluşturuluştur.<br></li>
+</ul>
 
 <h1>Toplantı ve Whatsapp Konuşmaları ScreenShotları</h1>
 
