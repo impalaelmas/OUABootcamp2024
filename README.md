@@ -28,15 +28,14 @@ PC oyuncuları
 <b>Toplantı ve Whatsapp Konuşmaları ScreenShotları</b>
 
 <img width="1423" alt="2" src="https://github.com/impalaelmas/OUABootcamp2024/assets/123330048/09d5dab0-5857-4c02-84cf-221f347103cb">
-
-
+<br>
 ![WAPTASP SS](https://github.com/impalaelmas/OUABootcamp2024/assets/123330048/9b668225-7fa2-44ec-ba13-d206db355aa2)
 
-
+<br>
 <ul>
 <b>Tasarım ve Developing Mantığı:</b> Tasarım tarafın da bilgisi olan ekip üyeleri ağırlıklı olarak tasarıma zaman ayırsa da yardıma ihtiyaç olduğunda  developing kısmında da faaliyet gösterecektir. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.<br>
 <b>Tasarım Grubu Üyeleri: Elmas, Elif, Erdem.</b> 
-
+<br>
 ![tire](https://github.com/impalaelmas/OUABootcamp2024/assets/123330048/5b935e8d-f5ec-4cd2-aaf1-3ca323debd5a)
 
 <li><b>Tasarım Fikirleri</b></li>
