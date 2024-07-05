@@ -7,4 +7,6 @@ Elmas Ildırar- Scrum Master<br>
 Yağmur Yiğit - Developer<br>
 Erdem Celal Gören - Developer<br>
 <h1>Oyun İsmi</h1>
-Henüz belirlenmedi
+(Fin to Feet ,Rescue Leap, Fishy Quest ,Evolution Escape, Climbing Waters, Mutant Splash)
+
+
