@@ -6,5 +6,5 @@ Elif Gedik - Developer
 Elmas Ildırar- Scrum Master
 Yağmur Yiğit - Developer
 Erdem Celal Gören - Developer
-Oyun İsmi
+<h1>Oyun İsmi</h1>
 Henüz belirlenmedi
