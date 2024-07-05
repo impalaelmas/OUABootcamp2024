@@ -28,7 +28,7 @@ PC oyuncuları
 BURAYA SS GELİCEK
 
 
-<b>Tasarım ve Developing Mantığı:</b> Tasarım tarafın da bilgisi olan ekip üyeleri ağırlıklı olarak tasarıma zaman ayırsa da yardıma ihtiyaç olduğunda  developing kısmında da faaliyet gösterecektir. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.
+<b>Tasarım ve Developing Mantığı:</b> Tasarım tarafın da bilgisi olan ekip üyeleri ağırlıklı olarak tasarıma zaman ayırsa da yardıma ihtiyaç olduğunda  developing kısmında da faaliyet gösterecektir. 1. ve 2. Sprint'te tasarım dilinin tam oturması için ayrı grup oluşturulması takımca doğru bulunmuştur.<br>
 <b>Tasarım Grubu Üyeleri: Elmas, Elif, Erdem.</b> 
 
 
