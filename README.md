@@ -45,5 +45,5 @@ PC oyuncuları
 
 ![as2](https://github.com/impalaelmas/OUABootcamp2024/assets/123330048/77c27fd1-f03e-4c40-84b4-05f85fefaa4e)
 
-<ul><b>Sprint Review:</b>
+<ul><h3><b>Sprint Review:</h3></b>
 <li>Ekipçe low poly bir tasarıma sahip olunması hükmen karar verilmiştir.</li></ul>
