@@ -9,6 +9,9 @@ Erdem Celal Gören - Developer<br>
 <h1>Oyun İsmi</h1>
 Seçenekler
 (Fin to Feet ,Rescue Leap, Fishy Quest ,Evolution Escape, Climbing Waters, Mutant Splash)
+<h1>Product Backlog URL</h1>
+<h1>Oyun Açıklaması</h1>
+Arkadaşının denizden yeryüzüne kaçırılması sonucu onu kurtarmak üzere yola çıkan ana karakterimizin başından geçenleri konu alan basit eğlence türünde olan oyunumuz hem parkur hem de basit bulamacalar içeriyor. 3D platform oyunu kategorisinde.
 <h1>Oyun Özellikleri</h1>
 3D
 Gameanalytics ,platform ,basit eğlence ,parkour
