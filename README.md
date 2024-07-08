@@ -12,7 +12,7 @@ Seçenekler
 <h1>Product Backlog URL</h1>
 (https://miro.com/app/board/uXjVK0oUaQA=/)
 <h1>Oyun Açıklaması</h1>
-Arkadaşının denizden yeryüzüne kaçırılması sonucu onu kurtarmak üzere yola çıkan ana karakterimizin başından geçenleri konu alan basit eğlence türünde olan oyunumuz hem parkur hem de basit bulamacalar içeriyor. 3D platform oyunu kategorisinde.
+Single player oynanabilen sürükleyici bir 3D platform oyunudur. Ana karakterimiz olan balık suyun derinliklerinden karaya çıkarak, kaybolan arkadaşını bulmak için zorlu parkurlar ve akıl dolu bulmacalarla dolu bir dünyayı keşfeder. Bu macerada, doğayı koruma ve sürdürülebilirlik temalarını ön planda tutarak, çevreyi temizlemek ve doğal yaşamı korumak için çeşitli görevler üstlenir. Su altı ve kara arasında geçiş yaparken, farklı yetenekler kullanarak tüm engelleri aşması ve arkadaşına ulaşması gerekir. 
 <h1>Oyun Özellikleri</h1>
 3D
 Gameanalytics ,platform ,basit eğlence ,parkour
