@@ -71,6 +71,7 @@ PC oyuncuları
 <strong><li>Tasarım belirleme aşamaları:</strong> Tasarım ile ilgili konular hem discord toplantılarında hem de whatsappta konuşulmuştur. Tüm ekip üyelerinin asset araştırması ve paylaşmaıs gerektiği belirtilmiştir. Assetler whatsapp grubu ve discord kanalında paylaşılmıştır.</li>
 
 <ul><h3><b>Discord ve Whatsapp Screenshotları:</h3></b>
+![unnamed](https://github.com/user-attachments/assets/6545e4a7-a826-4571-890f-2f47c9497502)
 
 <ul><h3><b>Referans Oyun Görseli:</h3></b>
 <img width="496" alt="referans görsel" src="https://github.com/user-attachments/assets/197ca2db-2e1b-4470-ad5b-57c51b8d8bf7">
