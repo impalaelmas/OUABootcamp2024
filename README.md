@@ -72,7 +72,7 @@ PC oyuncuları
 
 <ul><h3><b>Discord ve Whatsapp Screenshotları:</h3></b>
 
-<ul><h3><b>Referans Oyun Görselleri:</h3></b>
+<ul><h3><b>Referans Oyun Görseli:</h3></b>
 <img width="496" alt="referans görsel" src="https://github.com/user-attachments/assets/197ca2db-2e1b-4470-ad5b-57c51b8d8bf7">
 
 
