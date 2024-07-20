@@ -78,6 +78,10 @@ PC oyuncuları
 <img width="496" alt="referans görsel" src="https://github.com/user-attachments/assets/197ca2db-2e1b-4470-ad5b-57c51b8d8bf7">
 
 <h3>Ürün Durumu - Unity Ekran Görüntüleri:</h3>
+![fishy_quest_1](https://github.com/user-attachments/assets/7deb9d1f-335e-4acf-a7ba-cefdcc5010cd)
+![fishy_quest_2](https://github.com/user-attachments/assets/52619d46-5242-44f1-ace6-e55a1682abd2)
+![bubbles](https://github.com/user-attachments/assets/e5fbc0fe-2ec8-4890-b8a9-4763b5c2de4f)
+![skyler_](https://github.com/user-attachments/assets/8548af4d-9b1a-40a3-baf6-390fe4b4376b)
 
 
 
