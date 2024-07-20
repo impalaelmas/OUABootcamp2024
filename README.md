@@ -84,5 +84,6 @@ PC oyuncuları
 <img width="767" alt="Capture4" src="https://github.com/user-attachments/assets/bf57d7c5-4c7d-44ea-bffd-364042ad101a">
 
 <h3>Spring 2 Trello Update:</h3>
-<img width="847" alt="TRELLO" src="https://github.com/user-attachments/assets/36cd5307-8798-445e-a643-1f1e7cecc156">
+<img width="849" alt="TRELLO" src="https://github.com/user-attachments/assets/d53eb89d-66a4-4513-8061-937bb2dac35e">
+
 
