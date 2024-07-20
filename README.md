@@ -70,14 +70,14 @@ PC oyuncuları
 <strong><li>Daily Scrum:</strong> Toplantılar whatsapp üzerinden belirlenmiş discord üzerinden yapılmıştır. Toplantı gün ve saatlerine whatsapp anketleri ile karar verilmiştir. Discord'da haftada min 2-3 toplantı yapılması kararlaştırılmıştır. Tasarım fikirleri whatsapp üzerinden konuşulmuştur.</li>
 <strong><li>Tasarım belirleme aşamaları:</strong> Tasarım ile ilgili konular hem discord toplantılarında hem de whatsappta konuşulmuştur. Tüm ekip üyelerinin asset araştırması ve paylaşmaıs gerektiği belirtilmiştir. Assetler whatsapp grubu ve discord kanalında paylaşılmıştır.</li>
 
-<ul><h3>Discord ve Whatsapp Screenshotları:</h3>
+<h3>Discord ve Whatsapp Screenshotları:</h3>
 <img width="802" alt="1" src="https://github.com/user-attachments/assets/5789093f-086c-4d41-84ee-748507273662">
 <img width="797" alt="2" src="https://github.com/user-attachments/assets/775a8ca3-5881-45e8-8a49-78fc4af68323">
 
-<ul><h3>Referans Oyun Görseli:</h3>
+<h3>Referans Oyun Görseli:</h3>
 <img width="496" alt="referans görsel" src="https://github.com/user-attachments/assets/197ca2db-2e1b-4470-ad5b-57c51b8d8bf7">
 
-<ul><h3>Ürün Durumu - Unity Ekran Görüntüleri:</h3>
+<h3>Ürün Durumu - Unity Ekran Görüntüleri:</h3>
 
 
 
