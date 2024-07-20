@@ -66,8 +66,8 @@ PC oyuncuları
 <li>Toplantı günleri ve saatleri için net kararlar verilmiştir.</li></ul>
 
 <h1>Sprint 2</h1>
-<li>**Sprint içinde tamamlanması tahmin edilen puan:** 40 Puan</li>
-<li>**Daily Scrum:** Toplantılar whatsapp üzerinden belirlenmiş discord üzerinden yapılmıştır. Toplantı gün ve saatlerine whatsapp anketleri ile karar verilmiştir. Discord'da haftada min 2-3 toplantı yapılması kararlaştırılmıştır. Tasarım fikirleri whatsapp üzerinden konuşulmuştur.</li>
-<li>**Tasarım belirleme aşamaları:**Tasarım ile ilgili konular hem discord toplantılarında hem de whatsappta konuşulmuştur. Tüm ekip üyelerinin asset araştırması ve paylaşmaıs gerektiği belirtilmiştir. Assetler whatsapp grubu ve discord kanalında paylaşılmıştır.</li>
+<strong><li>Sprint içinde tamamlanması tahmin edilen puan:</strong> 40 Puan</li>
+<strong><li>Daily Scrum:</strong> Toplantılar whatsapp üzerinden belirlenmiş discord üzerinden yapılmıştır. Toplantı gün ve saatlerine whatsapp anketleri ile karar verilmiştir. Discord'da haftada min 2-3 toplantı yapılması kararlaştırılmıştır. Tasarım fikirleri whatsapp üzerinden konuşulmuştur.</li>
+<strong><li>Tasarım belirleme aşamaları:</strong>Tasarım ile ilgili konular hem discord toplantılarında hem de whatsappta konuşulmuştur. Tüm ekip üyelerinin asset araştırması ve paylaşmaıs gerektiği belirtilmiştir. Assetler whatsapp grubu ve discord kanalında paylaşılmıştır.</li>
 
 
