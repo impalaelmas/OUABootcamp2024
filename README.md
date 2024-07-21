@@ -86,4 +86,28 @@ PC oyuncuları
 <h3>Spring 2 Trello Update:</h3>
 <img width="849" alt="TRELLO" src="https://github.com/user-attachments/assets/d53eb89d-66a4-4513-8061-937bb2dac35e">
 
+<ul><h3><b>Sprint Review:</h3></b>
+<li>Sprint gözden geçirilmiş, tasarım konuları netleştirilmiştir. Kodlamadaki bazı aksaklıklar dışında istenilen hedeflere ulaşılmıştır.</li></ul>
+
+<ul><h3><b>Sprint Review katılımcıları: </h3></b>
+<li>Emir Yavuz </li>
+<li>Elif Gedik</li>
+<li>Elmas Ildırar</li>
+<li>Yağmur Yiğit </li>
+<li>Erdem Celal Gören</ul>
+
+<ul><h3><b>Sprint Retrospective:</h3></b>
+<li>Sprint 2 için kazanılan puan 26 dır. Kodla ilgili bazı porblemler gelecek sprinte aktarılmıştır.</li>
+<li>Gelecek sprint için daha iyi görev dağılımı yapılmasına karar verilmiştir.</li>
+<li>Tasarım ile ilgili konular tamamlandığında tasarım ekibinin de kod tarafına yardımcı olmasına karar verilmiştir.</li>
+<li>Kullanılacak assetlerin seçimleri yapılmış, ana karaktere karar verilmiştir.</li>
+
+
+
+
+
+
+
+
+
 
