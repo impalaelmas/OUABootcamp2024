@@ -86,6 +86,9 @@ PC oyuncuları
 <h3>Spring 2 Trello Update:</h3>
 <img width="849" alt="TRELLO" src="https://github.com/user-attachments/assets/d53eb89d-66a4-4513-8061-937bb2dac35e">
 
+<h1>Product Backlog URL</h1>
+https://miro.com/app/board/uXjVK0oUaQA=/
+
 <ul><h3><b>Sprint Review:</h3></b>
 <li>Sprint gözden geçirilmiş, tasarım konuları netleştirilmiştir. Kodlamadaki bazı aksaklıklar dışında istenilen hedeflere ulaşılmıştır.</li></ul>
 
