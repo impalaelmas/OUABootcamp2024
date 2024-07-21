@@ -89,7 +89,7 @@ PC oyuncuları
 <img width="376" alt="KOD3" src="https://github.com/user-attachments/assets/33691e7f-be59-47ee-b94f-9e3548b73854">
 
 <h3>Spring 2 Trello Update:</h3>
-<img width="849" alt="TRELLO" src="https://github.com/user-attachments/assets/d53eb89d-66a4-4513-8061-937bb2dac35e">
+<img width="857" alt="TRELLO" src="https://github.com/user-attachments/assets/3c5f1324-7afb-4f50-ae8e-a908bb15f1c7">
 
 <h1>Product Backlog URL</h1>
 https://miro.com/app/board/uXjVK0oUaQA=/
