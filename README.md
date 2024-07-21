@@ -97,7 +97,7 @@ PC oyuncuları
 <li>Erdem Celal Gören</ul>
 
 <ul><h3><b>Sprint Retrospective:</h3></b>
-<li>Sprint 2 için kazanılan puan 26 dır. Kodla ilgili bazı porblemler gelecek sprinte aktarılmıştır.</li>
+<li>Sprint 2 için kazanılan puan 26 dır. Kodla ilgili bazı problemler gelecek sprinte aktarılmıştır.</li>
 <li>Gelecek sprint için daha iyi görev dağılımı yapılmasına karar verilmiştir.</li>
 <li>Tasarım ile ilgili konular tamamlandığında tasarım ekibinin de kod tarafına yardımcı olmasına karar verilmiştir.</li>
 <li>Kullanılacak assetlerin seçimleri yapılmış, ana karaktere karar verilmiştir.</li>
