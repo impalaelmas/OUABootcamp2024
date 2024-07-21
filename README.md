@@ -83,6 +83,11 @@ PC oyuncuları
 <img width="807" alt="Capture3" src="https://github.com/user-attachments/assets/9c078b9c-4989-429f-aec0-51f3d1161685">
 <img width="767" alt="Capture4" src="https://github.com/user-attachments/assets/bf57d7c5-4c7d-44ea-bffd-364042ad101a">
 
+<h3>Kod İlerleyiş Durumu - Ekran Görüntüleri:</h3>
+<img width="664" alt="KOD1" src="https://github.com/user-attachments/assets/5c79a905-d0e2-4aca-bf8c-c867f8722b73">
+<img width="572" alt="KOD2" src="https://github.com/user-attachments/assets/7d7cfd14-3660-46fd-9e7d-ea07a04581e2">
+<img width="376" alt="KOD3" src="https://github.com/user-attachments/assets/33691e7f-be59-47ee-b94f-9e3548b73854">
+
 <h3>Spring 2 Trello Update:</h3>
 <img width="849" alt="TRELLO" src="https://github.com/user-attachments/assets/d53eb89d-66a4-4513-8061-937bb2dac35e">
 
