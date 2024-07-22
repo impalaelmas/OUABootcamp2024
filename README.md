@@ -91,7 +91,7 @@ PC oyuncuları
 <h3>Spring 2 Trello Update:</h3>
 <img width="857" alt="TRELLO" src="https://github.com/user-attachments/assets/3c5f1324-7afb-4f50-ae8e-a908bb15f1c7">
 
-<h1>Product Backlog URL</h1>
+<h1>Product Backlog - Burndown Chart</h1>
 <img width="874" alt="BURNDOWN TABLE" src="https://github.com/user-attachments/assets/7b35f7b9-aa68-4618-9370-6bcf85e80f09">
 <img width="521" alt="CHART" src="https://github.com/user-attachments/assets/d857b5f9-a6c2-4bb5-b11d-5ad370c945a2">
 
