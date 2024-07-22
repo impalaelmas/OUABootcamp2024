@@ -93,7 +93,8 @@ PC oyuncuları
 
 <h1>Product Backlog - Burndown Chart</h1>
 <img width="874" alt="BURNDOWN TABLE" src="https://github.com/user-attachments/assets/7b35f7b9-aa68-4618-9370-6bcf85e80f09">
-<img width="521" alt="CHART" src="https://github.com/user-attachments/assets/d857b5f9-a6c2-4bb5-b11d-5ad370c945a2">
+<img width="520" alt="B CHART" src="https://github.com/user-attachments/assets/f622f352-c3b9-44e6-b5f2-ca0ad311af08">
+
 
 
 <ul><h3><b>Sprint Review:</h3></b>
