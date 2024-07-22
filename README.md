@@ -93,7 +93,7 @@ PC oyuncuları
 
 <h1>Product Backlog URL</h1>
 <img width="874" alt="BURNDOWN TABLE" src="https://github.com/user-attachments/assets/7b35f7b9-aa68-4618-9370-6bcf85e80f09">
-<img width="497" alt="BURNDOWN CHART" src="https://github.com/user-attachments/assets/c9604592-7872-4293-bc4f-366dfbb3d877">
+<img width="521" alt="CHART" src="https://github.com/user-attachments/assets/d857b5f9-a6c2-4bb5-b11d-5ad370c945a2">
 
 
 <ul><h3><b>Sprint Review:</h3></b>
