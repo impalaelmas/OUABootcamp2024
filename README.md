@@ -92,7 +92,9 @@ PC oyuncuları
 <img width="857" alt="TRELLO" src="https://github.com/user-attachments/assets/3c5f1324-7afb-4f50-ae8e-a908bb15f1c7">
 
 <h1>Product Backlog URL</h1>
-https://miro.com/app/board/uXjVK0oUaQA=/
+<img width="874" alt="BURNDOWN TABLE" src="https://github.com/user-attachments/assets/7b35f7b9-aa68-4618-9370-6bcf85e80f09">
+<img width="497" alt="BURNDOWN CHART" src="https://github.com/user-attachments/assets/c9604592-7872-4293-bc4f-366dfbb3d877">
+
 
 <ul><h3><b>Sprint Review:</h3></b>
 <li>Sprint gözden geçirilmiş, tasarım konuları netleştirilmiştir. Kodlamadaki bazı aksaklıklar dışında istenilen hedeflere ulaşılmıştır.</li></ul>
