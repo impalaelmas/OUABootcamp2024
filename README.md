@@ -95,6 +95,12 @@ PC oyuncuları
 <img width="874" alt="BURNDOWN TABLE" src="https://github.com/user-attachments/assets/7b35f7b9-aa68-4618-9370-6bcf85e80f09">
 <img width="520" alt="B CHART" src="https://github.com/user-attachments/assets/f622f352-c3b9-44e6-b5f2-ca0ad311af08">
 
+<br><li><b>Sprint 2 süresince tamamlanması beklenen puan 30'dur.</b><br></li>
+
+<li><b>Puan tamamlama mantığı:</b> Sprint 2 süresince tamamlanması beklenen puan 30'dur. Kod kısmında belirlenen hedeflere ulaşılamadığı için 26 puan toplanmıştır, kalan puanlar 3. sprinte aktarılacaktır.<br></li>
+<li><b>Daily Scrum:</b> Whatsapp üzerinden günlük Discord üzerinden ise haftalık olarak görüşmeler sağlanmıştır.<br></li>
+</ul>
+
 
 
 <ul><h3><b>Sprint Review:</h3></b>
