@@ -142,7 +142,7 @@ PC oyuncuları
 <li><b>Puan tamamlama mantığı:</b> Sprint 3 süresince tamamlanması beklenen puan 32'dir. Ancak sprint 2 de tamamlanamayan 4 puan sprint 3 e aktarıldığı için bu puan 36 olarak belirlenmiştir.<br></li>
 
 <ul><h3><b>Sprint Review:</h3></b>
-<li>Karakter tasarımları, sahne tasarımları, kodlar, animasyonlar, oyun mekanikleri ve 3D asset entegrasyonu bu süreçte tamamlanmıştır. Bu sayede belirlenen 34 puanlık backlog puanı tamamlanmıştır.</li></ul>
+<li>Karakter tasarımları, sahne tasarımları, kodlar, animasyonlar, oyun mekanikleri ve 3D asset entegrasyonu bu süreçte tamamlanmıştır. Bu sayede belirlenen 36 puanlık backlog puanı tamamlanmıştır.</li></ul>
 
 <ul><h3><b>Sprint Review katılımcıları: </h3></b>
 <li>Emir Yavuz </li>
