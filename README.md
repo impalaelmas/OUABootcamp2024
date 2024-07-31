@@ -120,7 +120,7 @@ PC oyuncuları
 <li>Kullanılacak assetlerin seçimleri yapılmış, ana karaktere karar verilmiştir.</li>
 
 <h1>Sprint 3</h1>
-<strong><li>Sprint içinde tamamlanması tahmin edilen puan:</strong> 34 Puan</li>
+<strong><li>Sprint içinde tamamlanması tahmin edilen puan:</strong> 36 Puan</li>
 <strong><li>Daily Scrum:</strong> İş yükünün daha yoğun olmasından dolayı günlük toplantılar yapılmıştır. Aynı zamanda acil çözülmesi gereken konular whatsapp üzerinden konuşulmuştur. Tasarım ve kodlama ile ilgili kararlar ekipçe hızlı şekilde alınmıştır.</li>
 <strong><li>Tasarım belirleme aşamaları:</strong>Tüm ekip üyeleri gereken assetleri whatsapp grubu ve discord kanalında paylaşmıştır.</li>
 
@@ -136,7 +136,7 @@ PC oyuncuları
 
 <h1>Product Backlog - Burndown Chart</h1>
 
-<li><b>Puan tamamlama mantığı:</b> Sprint 3 süresince tamamlanması beklenen puan 30'dur. Ancak sprint 2 de tamamlanamayan 4 puan sprint 3 e aktarıldıpı için bu puan 34 olarak belirlenmiştir.<br></li>
+<li><b>Puan tamamlama mantığı:</b> Sprint 3 süresince tamamlanması beklenen puan 32'dir. Ancak sprint 2 de tamamlanamayan 4 puan sprint 3 e aktarıldıpı için bu puan 36 olarak belirlenmiştir.<br></li>
 
 <ul><h3><b>Sprint Review:</h3></b>
 <li>Karakter tasarımları, sahne tasarımları, kodlar, animasyonlar, oyun mekanikleri ve 3D asset entegrasyonu bu süreçte tamamlanmıştır. Bu sayede belirlenen 34 puanlık backlog puanı tamamlanmıştır.</li></ul>
