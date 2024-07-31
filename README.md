@@ -119,11 +119,15 @@ PC oyuncuları
 <li>Tasarım ile ilgili konular tamamlandığında tasarım ekibinin de kod tarafına yardımcı olmasına karar verilmiştir.</li>
 <li>Kullanılacak assetlerin seçimleri yapılmış, ana karaktere karar verilmiştir.</li>
 
+<h1>Sprint 3</h1>
+<strong><li>Sprint içinde tamamlanması tahmin edilen puan:</strong> 34 Puan</li>
+<strong><li>Daily Scrum:</strong> İş yükünün daha yoğun olmasından dolayı günlük toplatılar yapılmıştır. Aynı zamanda acil çözülmesi gereken konular whatsapp üzerinden konuşulmuştur. Tasarım ve kodlama ile ilgili kararlar ekipçe hızlı şekilde anlınmıştır.</li>
+<strong><li>Tasarım belirleme aşamaları:</strong>Tüm ekip üyeleri gereken assetleri whatsapp grubu ve discord kanalında paylaşmıştır.</li>
 
-
-
-
-
+<h3>Whatsapp Screenshotları:</h3>
+<img width="445" alt="final 1" src="https://github.com/user-attachments/assets/3a16bb3f-d65b-45e0-a099-7f4360f5f8b0">
+<img width="455" alt="final 2" src="https://github.com/user-attachments/assets/9079d263-835e-451d-a9da-4f272551bc1f">
+<img width="453" alt="final 3" src="https://github.com/user-attachments/assets/99ee12a4-9aa8-4da0-a9ad-e2e4e34ed2f6">
 
 
 
