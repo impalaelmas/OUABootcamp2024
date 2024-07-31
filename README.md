@@ -130,6 +130,23 @@ PC oyuncuları
 <img width="453" alt="final 3" src="https://github.com/user-attachments/assets/99ee12a4-9aa8-4da0-a9ad-e2e4e34ed2f6">
 <img width="455" alt="final 4" src="https://github.com/user-attachments/assets/42910189-ad8b-402c-884b-89b3af33e5c2">
 
+<h3>Ürün Durumu - Unity Ekran Görüntüleri:</h3>
 
+<h3>Spring 2 Trello Update:</h3>
 
+<h1>Product Backlog - Burndown Chart</h1>
 
+<li><b>Puan tamamlama mantığı:</b> Sprint 3 süresince tamamlanması beklenen puan 30'dur. Ancak sprint 2 de tamamlanamayan 4 puan sprint 3 e aktarıldıpı için bu puan 34 olarak belirlenmiştir.<br></li>
+
+<ul><h3><b>Sprint Review:</h3></b>
+<li>Karakter tasarımları, sahne tasarımları, kodlar, animasyonlar, oyun mekanikleri ve 3D asset entegrasyonu bu süreçte tamamlanmıştır. Bu sayede belirlenen 34 puanlık backlog puanı tamamlanmıştır.</li></ul>
+
+<ul><h3><b>Sprint Review katılımcıları: </h3></b>
+<li>Emir Yavuz </li>
+<li>Elif Gedik</li>
+<li>Elmas Ildırar</li>
+<li>Yağmur Yiğit </li>
+<li>Erdem Celal Gören</ul>
+
+<ul><h3><b>Sprint Retrospective:</h3></b>
+<li>Proje başarı ile tamamlanmıştır. Belirlenen hedeflere ulaşılmıştır.</li>
