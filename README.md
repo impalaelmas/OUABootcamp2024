@@ -25,7 +25,7 @@ PC oyuncuları
 <ul>
 <br><li><b>Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.</b><br></li>
 
-<li><b>Puan tamamlama mantığı:</b> Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.<br></li>
+<li><b>Puan tamamlama mantığı:</b> Proje boyunca tamamlanması gereken backlog puanı 72'dir. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.<br></li>
 <li><b>Daily Scrum:</b> Whatsapp üzerinden günlük Discord üzerinden ise haftalık olarak görüşmeler sağlanmıştır.<br></li>
 </ul>
 
@@ -119,12 +119,37 @@ PC oyuncuları
 <li>Tasarım ile ilgili konular tamamlandığında tasarım ekibinin de kod tarafına yardımcı olmasına karar verilmiştir.</li>
 <li>Kullanılacak assetlerin seçimleri yapılmış, ana karaktere karar verilmiştir.</li>
 
+<h1>Sprint 3</h1>
+<strong><li>Sprint içinde tamamlanması tahmin edilen puan:</strong> 36 Puan</li>
+<strong><li>Daily Scrum:</strong> İş yükünün daha yoğun olmasından dolayı günlük toplantılar yapılmıştır. Aynı zamanda acil çözülmesi gereken konular whatsapp üzerinden konuşulmuştur. Tasarım ve kodlama ile ilgili kararlar ekipçe hızlı şekilde alınmıştır.</li>
+<strong><li>Tasarım belirleme aşamaları:</strong>Tüm ekip üyeleri gereken assetleri whatsapp grubu ve discord kanalında paylaşmıştır.</li>
 
+<h3>Whatsapp & Discord Screenshotları:</h3>
+<img width="445" alt="final 1" src="https://github.com/user-attachments/assets/3a16bb3f-d65b-45e0-a099-7f4360f5f8b0">
+<img width="455" alt="final 2" src="https://github.com/user-attachments/assets/9079d263-835e-451d-a9da-4f272551bc1f">
+<img width="453" alt="final 3" src="https://github.com/user-attachments/assets/99ee12a4-9aa8-4da0-a9ad-e2e4e34ed2f6">
+<img width="455" alt="final 4" src="https://github.com/user-attachments/assets/42910189-ad8b-402c-884b-89b3af33e5c2">
 
+<h3>Ürün Durumu - Unity Ekran Görüntüleri:</h3>
 
+<h3>Spring 2 Trello Update:</h3>
+<img width="737" alt="trello" src="https://github.com/user-attachments/assets/a2dc2466-e1ad-41d9-9cb9-5dc4e30aad1e">
 
+<h1>Product Backlog - Burndown Chart</h1>
+<img width="749" alt="BURNDOWN TABLE" src="https://github.com/user-attachments/assets/6e52e33c-c99e-4dc2-b8f0-8c1062c44256">
+<img width="496" alt="SPRINT 3 BURNDOWN CHART" src="https://github.com/user-attachments/assets/2f399c6f-a3fe-4f77-84e7-10d52016f82c">
 
+<li><b>Puan tamamlama mantığı:</b> Sprint 3 süresince tamamlanması beklenen puan 32'dir. Ancak sprint 2 de tamamlanamayan 4 puan sprint 3 e aktarıldığı için bu puan 36 olarak belirlenmiştir.<br></li>
 
+<ul><h3><b>Sprint Review:</h3></b>
+<li>Karakter tasarımları, sahne tasarımları, kodlar, animasyonlar, oyun mekanikleri ve 3D asset entegrasyonu bu süreçte tamamlanmıştır. Bu sayede belirlenen 36 puanlık backlog puanı tamamlanmıştır.</li></ul>
 
+<ul><h3><b>Sprint Review katılımcıları: </h3></b>
+<li>Emir Yavuz </li>
+<li>Elif Gedik</li>
+<li>Elmas Ildırar</li>
+<li>Yağmur Yiğit </li>
+<li>Erdem Celal Gören</ul>
 
-
+<ul><h3><b>Sprint Retrospective:</h3></b>
+<li>Proje başarı ile tamamlanmıştır. Belirlenen hedeflere ulaşılmıştır.</li>
