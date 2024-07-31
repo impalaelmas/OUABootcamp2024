@@ -25,7 +25,7 @@ PC oyuncuları
 <ul>
 <br><li><b>Sprint içi puan değerlendirmesi 10 olarak belirlenmiştir.</b><br></li>
 
-<li><b>Puan tamamlama mantığı:</b> Proje boyunca tamamlanması gereken backlog puanı 36'dır. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.<br></li>
+<li><b>Puan tamamlama mantığı:</b> Proje boyunca tamamlanması gereken backlog puanı 72'dir. İlk Sprint için bitirilmesi istenilen puan sayısı 10 olarak belirlenmiştir ve hedefe ulaşılmıştır.<br></li>
 <li><b>Daily Scrum:</b> Whatsapp üzerinden günlük Discord üzerinden ise haftalık olarak görüşmeler sağlanmıştır.<br></li>
 </ul>
 
