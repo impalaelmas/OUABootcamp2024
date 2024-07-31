@@ -8,7 +8,7 @@ public class controlelr : MonoBehaviour
 
     private Animator animator;
     private Rigidbody playerRb;
-    public float jumpforce = 4f;
+    public float jumpforce = 5.6f;
     /* public bool isOnGround = true;*/
 
     public float groundDistance = 0.2f;
@@ -31,12 +31,12 @@ public class controlelr : MonoBehaviour
 
         if (Input.GetKey(KeyCode.W))
         {
-            animator.SetBool("walk", true);
+            animator.SetBool("walkF", true);
             transform.Translate(new Vector3(0, 0, 8f) * Time.deltaTime);
         }
         else
         {
-            animator.SetBool("walk", false);
+            animator.SetBool("walkF", false);
         }
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
@@ -64,21 +64,21 @@ public class controlelr : MonoBehaviour
         }
         if (Input.GetKey(KeyCode.A))
         {
-            animator.SetBool("walkleft", true);
+            animator.SetBool("leftW", true);
             transform.Translate(new Vector3(-8f, 0, 0) * Time.deltaTime);
         }
         else
         {
-            animator.SetBool("walkleft", false);
+            animator.SetBool("leftW", false);
         }
         if (Input.GetKey(KeyCode.D))
         {
-            animator.SetBool("walkright", true);
+            animator.SetBool("rightW", true);
             transform.Translate(new Vector3(8f, 0, 0) * Time.deltaTime);
         }
         else
         {
-            animator.SetBool("walkright", false);
+            animator.SetBool("rightW", false);
         }
         if (Input.GetKey(KeyCode.LeftShift))
         {

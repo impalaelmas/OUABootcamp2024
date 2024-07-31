@@ -5,7 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Collectible
-  - Audio
+  - destroy
+  - Destroyable
   layers:
   - Default
   - TransparentFX

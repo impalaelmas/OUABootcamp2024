@@ -11,9 +11,9 @@ public class scoreManager : MonoBehaviour
     public GameObject triggerObject; // Açýlacak nesne
     int score;
     [SerializeField] TextMeshProUGUI scoreText;
+
     void Start()
     {
-       
         scoreText.text = "Score: " + score;
         if (triggerObject != null)
         {
@@ -31,6 +31,7 @@ public class scoreManager : MonoBehaviour
         scoreText.text = "Score: " + score;
 
         collectedObjectsCount++; // Nesne toplandýðýnda sayaç artýrýlýr
+
         if (collectedObjectsCount >= 10)
         {
             OpenTriggerObject(); // Sayaç 15'e ulaþtýðýnda nesne açýlýr

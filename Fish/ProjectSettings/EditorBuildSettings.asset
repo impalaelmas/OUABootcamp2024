@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Ana sahne klasoru/Scenes/Main Menu.unity
-    guid: 35a193dc1ff16a3479b6b9828d2927b6
-  - enabled: 1
     path: Assets/Ana sahne klasoru/Scenes/sahne1.unity
     guid: 304a5748b784bc241be3c08d67013b21
   - enabled: 1
