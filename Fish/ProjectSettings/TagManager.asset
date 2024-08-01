@@ -7,6 +7,7 @@ TagManager:
   - Collectible
   - destroy
   - Destroyable
+  - Audio
   layers:
   - Default
   - TransparentFX

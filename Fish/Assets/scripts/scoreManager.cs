@@ -7,11 +7,18 @@ using UnityEngine.SocialPlatforms.Impl;
 
 public class scoreManager : MonoBehaviour
 {
+ 
     public int collectedObjectsCount = 0; // Toplanan nesne sayýsý
     public GameObject triggerObject; // Açýlacak nesne
     int score;
+    AudioManager audioManager;
     [SerializeField] TextMeshProUGUI scoreText;
+    
 
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
     void Start()
     {
         scoreText.text = "Score: " + score;
@@ -35,6 +42,7 @@ public class scoreManager : MonoBehaviour
         if (collectedObjectsCount >= 10)
         {
             OpenTriggerObject(); // Sayaç 15'e ulaþtýðýnda nesne açýlýr
+            audioManager.PlaySFX(audioManager.PortalOpen);
         }
       
     }
@@ -44,6 +52,7 @@ public class scoreManager : MonoBehaviour
         if (triggerObject != null)
         {
             triggerObject.SetActive(true); // Nesne açýlýr
+            
         }
     }
  

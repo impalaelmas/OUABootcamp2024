@@ -14,6 +14,15 @@ public class controlelr : MonoBehaviour
     public float groundDistance = 0.2f;
     public LayerMask groundLayer;
     private bool isGrounded;
+    AudioManager audioManager;
+
+
+    private void Awake()
+    {
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
+    }
+
+
 
     private void Start()
     {
@@ -42,7 +51,7 @@ public class controlelr : MonoBehaviour
         {
             animator.SetBool("jump", true);
             playerRb.velocity = Vector3.up * jumpforce;
-
+            audioManager.PlaySFX(audioManager.Jump);
 
 
             /*transform.Translate(new Vector3(0, 2f, 0) * Time.deltaTime);*/
