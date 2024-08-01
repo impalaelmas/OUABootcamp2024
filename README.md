@@ -132,12 +132,14 @@ PC oyuncuları
 
 <h3>Ürün Durumu - Unity Ekran Görüntüleri:</h3>
 
-<h3>Spring 2 Trello Update:</h3>
-<img width="737" alt="trello" src="https://github.com/user-attachments/assets/a2dc2466-e1ad-41d9-9cb9-5dc4e30aad1e">
+<h3>Spring 3 Trello Update:</h3>
+<img width="643" alt="trello final" src="https://github.com/user-attachments/assets/82dfec24-4bcb-4359-a97b-e429e494e8f9">
+
 
 <h1>Product Backlog - Burndown Chart</h1>
-<img width="749" alt="BURNDOWN TABLE" src="https://github.com/user-attachments/assets/6e52e33c-c99e-4dc2-b8f0-8c1062c44256">
-<img width="496" alt="SPRINT 3 BURNDOWN CHART" src="https://github.com/user-attachments/assets/2f399c6f-a3fe-4f77-84e7-10d52016f82c">
+<img width="748" alt="FINAL TABLE" src="https://github.com/user-attachments/assets/5b8ed5a1-0133-4bf5-a6a9-cae7fff50028">
+<img width="530" alt="FINAL CHART" src="https://github.com/user-attachments/assets/d85a26a8-187f-4000-99c3-1ff45f42ec22">
+
 
 <li><b>Puan tamamlama mantığı:</b> Sprint 3 süresince tamamlanması beklenen puan 32'dir. Ancak sprint 2 de tamamlanamayan 4 puan sprint 3 e aktarıldığı için bu puan 36 olarak belirlenmiştir.<br></li>
 
