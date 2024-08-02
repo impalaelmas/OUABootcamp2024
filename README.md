@@ -1,4 +1,7 @@
 # OUABootcamp2024
+![fishy](https://github.com/user-attachments/assets/e13e2cae-bba2-423c-9a97-1c6012e0c870)
+
+
 <h1>Takım 79 Unity<br></br></h1>
 <h1>Takım Üyeleri</h1>
 Emir Yavuz - Product Owner<br>
@@ -149,7 +152,11 @@ PC oyuncuları
 <img width="530" alt="FINAL CHART" src="https://github.com/user-attachments/assets/d85a26a8-187f-4000-99c3-1ff45f42ec22">
 
 
-<li><b>Puan tamamlama mantığı:</b> Sprint 3 süresince tamamlanması beklenen puan 32'dir. Ancak sprint 2 de tamamlanamayan 4 puan sprint 3 e aktarıldığı için bu puan 36 olarak belirlenmiştir.<br></li>
+<li><b>Puan tamamlama mantığı:</b> Sprint 3 süresince tamamlanması beklenen puan 32'dır. Ancak sprint 2 de tamamlanamayan 4 puan sprint 3 e aktarıldığı için bu puan 36 olarak belirlenmiştir.<br></li>
+
+<h3>Youtube oyun tanıtım linki</h3>
+https://youtu.be/E2FVuBUWW08
+
 
 <ul><h3><b>Sprint Review:</h3></b>
 <li>Karakter tasarımları, sahne tasarımları, kodlar, animasyonlar, oyun mekanikleri ve 3D asset entegrasyonu bu süreçte tamamlanmıştır. Bu sayede belirlenen 36 puanlık backlog puanı tamamlanmıştır.</li></ul>
