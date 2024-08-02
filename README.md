@@ -131,6 +131,14 @@ PC oyuncuları
 <img width="455" alt="final 4" src="https://github.com/user-attachments/assets/42910189-ad8b-402c-884b-89b3af33e5c2">
 
 <h3>Ürün Durumu - Unity Ekran Görüntüleri:</h3>
+<img width="815" alt="F1" src="https://github.com/user-attachments/assets/da0f1ae8-dbe5-4259-9bff-6fb86df5a10f">
+<img width="910" alt="F2" src="https://github.com/user-attachments/assets/df78bdef-89c1-407e-a92d-40f516404709">
+<img width="912" alt="F3" src="https://github.com/user-attachments/assets/8779f344-31be-4220-be8a-23a0fc3704db">
+<img width="913" alt="F4" src="https://github.com/user-attachments/assets/27d2d646-2534-46ae-964a-a564408c062f">
+<img width="911" alt="F5" src="https://github.com/user-attachments/assets/b505126a-f140-428a-bee3-33e63a193fe1">
+<img width="771" alt="F6" src="https://github.com/user-attachments/assets/17ffa132-f6f9-41e6-a2f7-3c794cbc4d66">
+
+
 
 <h3>Spring 3 Trello Update:</h3>
 <img width="643" alt="trello final" src="https://github.com/user-attachments/assets/82dfec24-4bcb-4359-a97b-e429e494e8f9">
