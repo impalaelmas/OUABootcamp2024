@@ -14,15 +14,6 @@ public class controlelr : MonoBehaviour
     public float groundDistance = 0.2f;
     public LayerMask groundLayer;
     private bool isGrounded;
-    AudioManager audioManager;
-
-
-    private void Awake()
-    {
-        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
-    }
-
-
 
     private void Start()
     {
@@ -41,7 +32,7 @@ public class controlelr : MonoBehaviour
         if (Input.GetKey(KeyCode.W))
         {
             animator.SetBool("walkF", true);
-            transform.Translate(new Vector3(0, 0, 8f) * Time.deltaTime);
+            transform.Translate(new Vector3(0, 0, 2.8f) * Time.deltaTime);
         }
         else
         {
@@ -51,7 +42,7 @@ public class controlelr : MonoBehaviour
         {
             animator.SetBool("jump", true);
             playerRb.velocity = Vector3.up * jumpforce;
-            audioManager.PlaySFX(audioManager.Jump);
+
 
 
             /*transform.Translate(new Vector3(0, 2f, 0) * Time.deltaTime);*/
@@ -65,7 +56,7 @@ public class controlelr : MonoBehaviour
         if (Input.GetKey(KeyCode.S))
         {
             animator.SetBool("backwalk", true);
-            transform.Translate(new Vector3(0, 0, -8f) * Time.deltaTime);
+            transform.Translate(new Vector3(0, 0, -2.8f) * Time.deltaTime);
         }
         else
         {
@@ -74,7 +65,7 @@ public class controlelr : MonoBehaviour
         if (Input.GetKey(KeyCode.A))
         {
             animator.SetBool("leftW", true);
-            transform.Translate(new Vector3(-8f, 0, 0) * Time.deltaTime);
+            transform.Translate(new Vector3(-2.8f, 0, 0) * Time.deltaTime);
         }
         else
         {
@@ -83,7 +74,7 @@ public class controlelr : MonoBehaviour
         if (Input.GetKey(KeyCode.D))
         {
             animator.SetBool("rightW", true);
-            transform.Translate(new Vector3(8f, 0, 0) * Time.deltaTime);
+            transform.Translate(new Vector3(2.8f, 0, 0) * Time.deltaTime);
         }
         else
         {
@@ -92,7 +83,7 @@ public class controlelr : MonoBehaviour
         if (Input.GetKey(KeyCode.LeftShift))
         {
             animator.SetBool("run", true);
-            transform.Translate(new Vector3(0, 0, 8f) * Time.deltaTime);
+            transform.Translate(new Vector3(0, 0, 2.8f) * Time.deltaTime);
         }
         else
         {
