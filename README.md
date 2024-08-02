@@ -149,7 +149,7 @@ PC oyuncuları
 <img width="530" alt="FINAL CHART" src="https://github.com/user-attachments/assets/d85a26a8-187f-4000-99c3-1ff45f42ec22">
 
 
-<li><b>Puan tamamlama mantığı:</b> Sprint 3 süresince tamamlanması beklenen puan 32'dir. Ancak sprint 2 de tamamlanamayan 4 puan sprint 3 e aktarıldığı için bu puan 36 olarak belirlenmiştir.<br></li>
+<li><b>Puan tamamlama mantığı:</b> Sprint 3 süresince tamamlanması beklenen puan 32'dır. Ancak sprint 2 de tamamlanamayan 4 puan sprint 3 e aktarıldığı için bu puan 36 olarak belirlenmiştir.<br></li>
 
 <ul><h3><b>Sprint Review:</h3></b>
 <li>Karakter tasarımları, sahne tasarımları, kodlar, animasyonlar, oyun mekanikleri ve 3D asset entegrasyonu bu süreçte tamamlanmıştır. Bu sayede belirlenen 36 puanlık backlog puanı tamamlanmıştır.</li></ul>
