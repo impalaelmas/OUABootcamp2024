@@ -131,13 +131,23 @@ PC oyuncuları
 <img width="455" alt="final 4" src="https://github.com/user-attachments/assets/42910189-ad8b-402c-884b-89b3af33e5c2">
 
 <h3>Ürün Durumu - Unity Ekran Görüntüleri:</h3>
+<img width="815" alt="F1" src="https://github.com/user-attachments/assets/da0f1ae8-dbe5-4259-9bff-6fb86df5a10f">
+<img width="910" alt="F2" src="https://github.com/user-attachments/assets/df78bdef-89c1-407e-a92d-40f516404709">
+<img width="912" alt="F3" src="https://github.com/user-attachments/assets/8779f344-31be-4220-be8a-23a0fc3704db">
+<img width="913" alt="F4" src="https://github.com/user-attachments/assets/27d2d646-2534-46ae-964a-a564408c062f">
+<img width="911" alt="F5" src="https://github.com/user-attachments/assets/b505126a-f140-428a-bee3-33e63a193fe1">
+<img width="771" alt="F6" src="https://github.com/user-attachments/assets/17ffa132-f6f9-41e6-a2f7-3c794cbc4d66">
 
-<h3>Spring 2 Trello Update:</h3>
-<img width="737" alt="trello" src="https://github.com/user-attachments/assets/a2dc2466-e1ad-41d9-9cb9-5dc4e30aad1e">
+
+
+<h3>Spring 3 Trello Update:</h3>
+<img width="643" alt="trello final" src="https://github.com/user-attachments/assets/82dfec24-4bcb-4359-a97b-e429e494e8f9">
+
 
 <h1>Product Backlog - Burndown Chart</h1>
-<img width="749" alt="BURNDOWN TABLE" src="https://github.com/user-attachments/assets/6e52e33c-c99e-4dc2-b8f0-8c1062c44256">
-<img width="496" alt="SPRINT 3 BURNDOWN CHART" src="https://github.com/user-attachments/assets/2f399c6f-a3fe-4f77-84e7-10d52016f82c">
+<img width="748" alt="FINAL TABLE" src="https://github.com/user-attachments/assets/5b8ed5a1-0133-4bf5-a6a9-cae7fff50028">
+<img width="530" alt="FINAL CHART" src="https://github.com/user-attachments/assets/d85a26a8-187f-4000-99c3-1ff45f42ec22">
+
 
 <li><b>Puan tamamlama mantığı:</b> Sprint 3 süresince tamamlanması beklenen puan 32'dir. Ancak sprint 2 de tamamlanamayan 4 puan sprint 3 e aktarıldığı için bu puan 36 olarak belirlenmiştir.<br></li>
 
