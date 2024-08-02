@@ -12,14 +12,8 @@ EditorBuildSettings:
     path: Assets/Ana sahne klasoru/Scenes/infoPP.unity
     guid: 18bb4051f51674a44a514f8370c5bb5b
   - enabled: 1
-    path: Assets/Ana sahne klasoru/Scenes/cutScene.unity
-    guid: a4db1a53b4263444384b09de3cef3f2b
-  - enabled: 1
     path: Assets/Ana sahne klasoru/Scenes/sahne1.unity
     guid: 304a5748b784bc241be3c08d67013b21
-  - enabled: 1
-    path: Assets/Ana sahne klasoru/Scenes/cutScenemsi.unity
-    guid: 6279404fe71974d4d9301176cc787464
   - enabled: 1
     path: Assets/Ana sahne klasoru/Scenes/sahne2_son.unity
     guid: 06db8b40c9740a44ea32f0266002716d

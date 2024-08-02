@@ -20451,7 +20451,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2aa97874ee7a7ca4483a26e2b90020a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scenename: cutScenemsi
+  scenename: sahne2_son
 --- !u!65 &1961657358
 BoxCollider:
   m_ObjectHideFlags: 0
