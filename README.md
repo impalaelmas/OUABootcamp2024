@@ -156,6 +156,7 @@ PC oyuncuları
 
 <h3>Youtube oyun tanıtım linki</h3>
 https://youtu.be/E2FVuBUWW08
+Oyun Tanıtım videosu seslendirmesini takım arkadaşımız Erdem Celal Gönen yapmıştır.
 
 
 <ul><h3><b>Sprint Review:</h3></b>
