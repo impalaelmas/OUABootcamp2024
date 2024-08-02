@@ -1,4 +1,7 @@
 # OUABootcamp2024
+![fishy](https://github.com/user-attachments/assets/e13e2cae-bba2-423c-9a97-1c6012e0c870)
+
+
 <h1>Takım 79 Unity<br></br></h1>
 <h1>Takım Üyeleri</h1>
 Emir Yavuz - Product Owner<br>
